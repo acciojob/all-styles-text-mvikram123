@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+div{
 	width:200px;
 	background-color:purple;
 	text-decoration:underline;
@@ -9,5 +9,6 @@
 	padding:5px;
 	border-left-width: 5px;
 	border-left-color:green;
+	border-left-style: dotted;
 	
 }
