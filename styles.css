@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-div{
+.container{
 	width:200px;
 	background-color:purple;
 	text-decoration:underline;
 	color:white;
 	font-size:20px;
 	padding:5px;
-	border-width:0px 0px 0px 5px;
-	border-color: purple purple purple pink;
+	border-left-width: 5px;
+	border-left-color:green;
 	
 }
