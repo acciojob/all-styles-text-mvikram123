@@ -3,12 +3,16 @@
 .main{
 	width:200px;
 	background-color:purple;
-	text-decoration:underline;
-	color:white;
-	font-size:20px;
+	
 	padding:10px;
 	border-left-width: 5px;
 	border-left-color:green;
 	border-left-style: solid;
+	
+}
+#div{
+	color:white;
+	font-size:20px;
+	text-decoration:underline;
 	
 }
